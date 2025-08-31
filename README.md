@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @syedraihanali
 - 👀 I’m interested in Anime.
-- 🌱 I’m currently learning C++.
+- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on Web Apps.
 - 📫 How to reach me ...
 - syedraihanali65@gmail.com
